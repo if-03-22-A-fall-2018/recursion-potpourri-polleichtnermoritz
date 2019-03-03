@@ -55,5 +55,6 @@ int thx(int* nums,int size, int* out_arr, int* out_arr_bin, int i, int index, in
 
 CalculationResults perform_calculations(int* nums, int n)
 {
-
+  CalculationResults result;
+  return result;
 }
